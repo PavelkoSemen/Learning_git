@@ -5,6 +5,6 @@ package com.company;
  */
 public class Xleb {
     public Xleb(){
-        
+
     }
 }
